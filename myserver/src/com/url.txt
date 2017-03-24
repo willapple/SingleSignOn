@@ -1,0 +1,2 @@
+单点登录学习网址：http://blog.jobbole.com/108668/
+redis命令参考：http://doc.redisfans.com/
